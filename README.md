@@ -30,7 +30,6 @@ I'm **Sabarishwaran**, a passionate **Computer Science Engineering student** exp
       <img src="https://img.shields.io/badge/Python-007BFF?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-007BFF?style=for-the-badge&logo=javascript&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-007BFF?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/C-007BFF?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-007BFF?style=for-the-badge&logo=postgresql&logoColor=white" />
     </td>
   </tr>
@@ -58,8 +57,9 @@ I'm **Sabarishwaran**, a passionate **Computer Science Engineering student** exp
       <img src="https://img.shields.io/badge/Git-007BFF?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=007BFF" />
       <img src="https://img.shields.io/badge/VS%20Code-007BFF?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-      <img src="https://img.shields.io/badge/Google%20Colab-007BFF?style=for-the-badge&logo=googlecolab&logoColor=white" />
-      <img src="https://img.shields.io/badge/Figma-007BFF?style=for-the-badge&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hadoop-007BFF?style=for-the-badge&logo=apachehadoop&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Spark-007BFF?style=for-the-badge&logo=apachespark&logoColor=white" />
+      
     </td>
   </tr>
 </table>
