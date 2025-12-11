@@ -117,7 +117,7 @@ I'm **Sabarishwaran**, a passionate **Computer Science Engineering student** exp
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/Sabarishwaran">
+  <a href="https://github.com/sabarishwaran7">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=007BFF"/>
   </a>
 
