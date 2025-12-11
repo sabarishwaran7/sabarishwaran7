@@ -10,7 +10,7 @@
 
 ---
 
-## 📝 About Me
+## 📝 About Me 
 
 I'm **Sabarishwaran**, a passionate **Computer Science Engineering student** exploring the fields of  
 **Artificial Intelligence, Machine Learning, and Full-Stack Development**.
