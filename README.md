@@ -80,17 +80,18 @@ I'm **Sabarishwaran**, a passionate **Computer Science Engineering student** exp
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sabarishwaran&show_icons=true&theme=dark&hide_border=true&title_color=007BFF&text_color=FFFFFF&icon_color=007BFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sabarishwaran7&show_icons=true&theme=dark&hide_border=true&title_color=007BFF&text_color=FFFFFF&icon_color=007BFF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabarishwaran&layout=compact&theme=dark&hide_border=true&title_color=007BFF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarishwaran7&layout=compact&theme=dark&hide_border=true&title_color=007BFF&text_color=FFFFFF" />
 
 </div>
 
 <br />
 
+
 ### 🔵 GitHub Activity Graph 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sabarishwaran&theme=high-contrast&color=007BFF&line=007BFF&point=1E90FF&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sabarishwaran7&theme=high-contrast&color=007BFF&line=007BFF&point=1E90FF&area=true&hide_border=true)
 
 ---
 
@@ -107,10 +108,11 @@ I'm **Sabarishwaran**, a passionate **Computer Science Engineering student** exp
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sabarishwaran&theme=onestar&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sabarishwaran7&theme=onestar&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
 </div>
 
 ---
+
 
 ## 🤝 Connect With Me
 
