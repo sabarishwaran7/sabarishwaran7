@@ -13,7 +13,7 @@
 ## 📝 About Me 
 
 I'm **Sabarishwaran**, a passionate **Computer Science Engineering student** exploring the fields of  
-**Artificial Intelligence, Machine Learning, and Full-Stack Development**.
+**Artificial Intelligence, Machine Learning,Big Data Computing and Full-Stack Development**.
 
 - **Currently Learning:** Deep Learning, Computer Vision, Advanced React.js  
 - **Interests:** AI Applications, ML Models, Web Development  
