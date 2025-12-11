@@ -117,9 +117,21 @@ I'm **Sabarishwaran**, a passionate **Computer Science Engineering student** exp
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/Sabarishwaran"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=007BFF"/></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-007BFF?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-007BFF?style=for-the-badge&logo=gmail&logoColor=ffffff"/></a>
+  <a href="https://github.com/Sabarishwaran">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=007BFF"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/sabarishwaran-r-67aa15348">
+    <img src="https://img.shields.io/badge/LinkedIn-007BFF?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
+  </a>
+
+  <a href="mailto:kit27.am304@gmail.com">
+    <img src="https://img.shields.io/badge/Email-007BFF?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
+  </a>
+
+  <a href="https://codolio.com/profile/xaHnlIpT">
+    <img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=codeigniter&logoColor=007BFF"/>
+  </a>
 </p>
 
 ---
