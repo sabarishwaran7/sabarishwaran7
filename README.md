@@ -58,8 +58,7 @@ I'm **Sabarishwaran**, a passionate **Computer Science Engineering student** exp
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=007BFF" />
       <img src="https://img.shields.io/badge/VS%20Code-007BFF?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
       <img src="https://img.shields.io/badge/Hadoop-007BFF?style=for-the-badge&logo=apachehadoop&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20Spark-007BFF?style=for-the-badge&logo=apachespark&logoColor=white" />
-      
+      <img src="https://img.shields.io/badge/Apache%20Spark-007BFF?style=for-the-badge&logo=apachespark&logoColor=white" />   
     </td>
   </tr>
 </table>
