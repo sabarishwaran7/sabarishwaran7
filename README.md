@@ -17,7 +17,7 @@ I'm **Sabarishwaran**, a passionate **Computer Science Engineering student** exp
 
 - **Currently Learning:** Deep Learning, Computer Vision, Big Data Computing  
 - **Interests:** AI Applications, ML Models, Web Development  
-- **Goal:** To become a skilled **AI Engineer** and **Full-Stack Developer**
+- **Goal:** To become a skilled **AI** and **ML ENGINEER**
 
 ---
 
