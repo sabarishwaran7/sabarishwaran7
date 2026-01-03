@@ -1,5 +1,5 @@
 <div align="center">
-<img src=".Black and Beige Simple Coming Soon Banner.png" width="100%"/> 
+<img src="./banner.png" width="100%"/> 
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sabarishwaran&color=007BFF&style=for-the-badge&label=Profile+Views)
