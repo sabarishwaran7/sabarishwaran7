@@ -88,6 +88,8 @@ I'm **Sabarishwaran**, a passionate **Computer Science Engineering student** exp
 
 ---
 
+
+
 ## 🐍 GitHub Snake Animation
 
 <picture>
@@ -96,6 +98,7 @@ I'm **Sabarishwaran**, a passionate **Computer Science Engineering student** exp
   <img alt="github contribution snake"
     src="https://raw.githubusercontent.com/sabarishwaran7/sabarishwaran7/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 
 ---
