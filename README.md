@@ -90,11 +90,13 @@ I'm **Sabarishwaran**, a passionate **Computer Science Engineering student** exp
 
 ## 🐍 GitHub Snake Animation
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sabarishwaran7/sabarishwaran7/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution snake"
+    src="https://raw.githubusercontent.com/sabarishwaran7/sabarishwaran7/output/github-contribution-grid-snake.svg">
+</picture>
 
-![Snake animation](https://raw.githubusercontent.com/sabarishwaran7/sabarishwaran7/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
